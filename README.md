@@ -5,6 +5,8 @@ Data, notebooks, and code for practicing visualizations.
 csv data found at [dropbox](https://www.dropbox.com/s/6746cakze2x3j1o/usa_00020.csv?dl=0) <br>
 filepath = https://www.dropbox.com/s/6746cakze2x3j1o/usa_00020.csv?dl=0
 
+samples: **ACS 2006 to 2016 1%** 
+
 
 |Type	|Variable	|Label	|Case Selection|
 |:---:|:---|:---|:---:|
