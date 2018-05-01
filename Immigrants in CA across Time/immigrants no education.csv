@@ -1,0 +1,2521 @@
+year,bpld,perwt
+1980,canada,9420.0
+1980,st. pierre and miquelon,20.0
+1980,bermuda,20.0
+1980,cape verde,40.0
+1980,falkland islands,20.0
+1980,"north america, ns",40.0
+1980,mexico,270900.0
+1980,belize/british honduras,1260.0
+1980,costa rica,1160.0
+1980,el salvador,27180.0
+1980,guatemala,11400.0
+1980,honduras,1560.0
+1980,nicaragua,4700.0
+1980,panama,1380.0
+1980,"central america, ns",920.0
+1980,cuba,1420.0
+1980,dominican republic,240.0
+1980,haiti,200.0
+1980,jamaica,1400.0
+1980,antigua-barbuda,40.0
+1980,bahamas,60.0
+1980,barbados,60.0
+1980,tortola,40.0
+1980,cayman islands,20.0
+1980,dominica,40.0
+1980,grenada,100.0
+1980,trinidad and tobago,500.0
+1980,curacao,20.0
+1980,guadeloupe,20.0
+1980,"caribbean, ns",380.0
+1980,"latin america, ns",20.0
+1980,argentina,3440.0
+1980,bolivia,660.0
+1980,brazil,1500.0
+1980,chile,2320.0
+1980,colombia,2260.0
+1980,ecuador,2220.0
+1980,guyana/british guiana,820.0
+1980,paraguay,60.0
+1980,peru,3460.0
+1980,suriname,20.0
+1980,uruguay,420.0
+1980,venezuela,1400.0
+1980,"south america, ns",380.0
+1980,denmark,520.0
+1980,finland,240.0
+1980,iceland,160.0
+1980,norway,440.0
+1980,sweden,1540.0
+1980,england,9660.0
+1980,channel islands,40.0
+1980,scotland,1380.0
+1980,wales,260.0
+1980,"united kingdom, ns",1540.0
+1980,ireland,820.0
+1980,northern ireland,80.0
+1980,belgium,460.0
+1980,france,2580.0
+1980,liechtenstein,180.0
+1980,luxembourg,120.0
+1980,netherlands,1640.0
+1980,switzerland,1300.0
+1980,"western europe, ns",20.0
+1980,gibraltar,160.0
+1980,greece,2560.0
+1980,italy,2660.0
+1980,malta,60.0
+1980,portugal,2920.0
+1980,azores,1220.0
+1980,madeira islands,80.0
+1980,san marino,40.0
+1980,spain,1560.0
+1980,austria,320.0
+1980,bulgaria,200.0
+1980,czechoslovakia,680.0
+1980,west germany,4040.0
+1980,east germany,60.0
+1980,hungary,1220.0
+1980,poland,1100.0
+1980,romania,1520.0
+1980,yugoslavia,1240.0
+1980,estonia,20.0
+1980,latvia,60.0
+1980,lithuania,60.0
+1980,other ussr/russia,40.0
+1980,ukraine,160.0
+1980,armenia,2560.0
+1980,azerbaijan,420.0
+1980,tadzhik,60.0
+1980,"ussr, ns",8060.0
+1980,"europe, ns",20.0
+1980,china,24680.0
+1980,hong kong,6460.0
+1980,macau,360.0
+1980,taiwan,11200.0
+1980,japan,18460.0
+1980,korea,28960.0
+1980,north korea,120.0
+1980,south korea,2240.0
+1980,"east asia, ns",20.0
+1980,brunei,220.0
+1980,cambodia (kampuchea),3700.0
+1980,indonesia,2320.0
+1980,east timor,100.0
+1980,laos,5880.0
+1980,malaysia,1080.0
+1980,philippines,63720.0
+1980,singapore,840.0
+1980,thailand,4700.0
+1980,vietnam,48480.0
+1980,"southeast asia, ns",80.0
+1980,afghanistan,300.0
+1980,india,10060.0
+1980,bangladesh,200.0
+1980,bhutan,60.0
+1980,burma (myanmar),1720.0
+1980,pakistan,1800.0
+1980,sri lanka (ceylon),700.0
+1980,iran,26740.0
+1980,maldives,20.0
+1980,nepal,20.0
+1980,bahrain,100.0
+1980,cyprus,100.0
+1980,iraq,2620.0
+1980,israel/palestine,4460.0
+1980,gaza strip,20.0
+1980,jordan,1340.0
+1980,kuwait,360.0
+1980,lebanon,6000.0
+1980,oman,20.0
+1980,qatar,140.0
+1980,saudi arabia,2420.0
+1980,syria,2660.0
+1980,turkey,2380.0
+1980,united arab emirates,20.0
+1980,yemen arab republic (north),120.0
+1980,"middle east, ns",20.0
+1980,"asia, nec/ns",60.0
+1980,algeria,160.0
+1980,egypt/united arab rep,3420.0
+1980,libya,520.0
+1980,morocco,520.0
+1980,sudan,320.0
+1980,tunisia,120.0
+1980,"north africa, ns",20.0
+1980,ghana,200.0
+1980,guinea,20.0
+1980,guinea-bissau,40.0
+1980,ivory coast,40.0
+1980,liberia,80.0
+1980,mali,20.0
+1980,niger,40.0
+1980,nigeria,1060.0
+1980,senegal,20.0
+1980,sierra leone,120.0
+1980,togo,80.0
+1980,ethiopia,700.0
+1980,kenya,640.0
+1980,mauritius,20.0
+1980,reunion,40.0
+1980,seychelles,20.0
+1980,somalia,40.0
+1980,tanzania,360.0
+1980,uganda,180.0
+1980,zambia,80.0
+1980,zimbabwe,240.0
+1980,"eastern africa, nec/ns",160.0
+1980,cameroon,120.0
+1980,zaire,20.0
+1980,botswana,20.0
+1980,south africa (union of),1180.0
+1980,swaziland,20.0
+1980,"southern africa, ns",220.0
+1980,"africa, ns/nec",620.0
+1980,australia,1960.0
+1980,new zealand,1260.0
+1980,papua new guinea,40.0
+1980,fiji,3020.0
+1980,french polynesia,140.0
+1980,tonga,660.0
+1980,western samoa,1140.0
+1980,"micronesia, ns",340.0
+1980,"antarctica, ns/nec",40.0
+1980,"abroad, ns",34520.0
+1980,at sea,40.0
+1990,canada,9959.0
+1990,bermuda,59.0
+1990,cape verde,34.0
+1990,greenland,26.0
+1990,st. helena and ascension,10.0
+1990,mexico,537193.0
+1990,belize/british honduras,1503.0
+1990,costa rica,1483.0
+1990,el salvador,65647.0
+1990,guatemala,41337.0
+1990,honduras,8158.0
+1990,nicaragua,14479.0
+1990,panama,1457.0
+1990,"central america, ns",704.0
+1990,cuba,1248.0
+1990,dominican republic,522.0
+1990,haiti,241.0
+1990,jamaica,1472.0
+1990,anguilla,26.0
+1990,antigua-barbuda,91.0
+1990,bahamas,134.0
+1990,barbados,138.0
+1990,dominica,18.0
+1990,grenada,55.0
+1990,montserrat,20.0
+1990,st. kitts-nevis,105.0
+1990,st. lucia,58.0
+1990,st. vincent,24.0
+1990,trinidad and tobago,725.0
+1990,aruba,11.0
+1990,netherlands antilles,54.0
+1990,guadeloupe,42.0
+1990,martinique,91.0
+1990,"caribbean, ns",18.0
+1990,"west indies, ns",260.0
+1990,argentina,3663.0
+1990,bolivia,912.0
+1990,brazil,3503.0
+1990,chile,2137.0
+1990,colombia,5958.0
+1990,ecuador,2118.0
+1990,guyana/british guiana,304.0
+1990,paraguay,256.0
+1990,peru,9400.0
+1990,suriname,169.0
+1990,uruguay,237.0
+1990,venezuela,697.0
+1990,"south america, ns",151.0
+1990,denmark,1038.0
+1990,finland,621.0
+1990,iceland,308.0
+1990,norway,845.0
+1990,sweden,1781.0
+1990,england,10546.0
+1990,jersey,13.0
+1990,scotland,1216.0
+1990,wales,224.0
+1990,"united kingdom, ns",3319.0
+1990,ireland,2476.0
+1990,northern ireland,174.0
+1990,belgium,744.0
+1990,france,4741.0
+1990,liechtenstein,77.0
+1990,luxembourg,16.0
+1990,monaco,20.0
+1990,netherlands,1560.0
+1990,switzerland,1656.0
+1990,albania,21.0
+1990,greece,1302.0
+1990,italy,2178.0
+1990,malta,103.0
+1990,portugal,1391.0
+1990,azores,339.0
+1990,spain,1674.0
+1990,austria,575.0
+1990,bulgaria,432.0
+1990,czechoslovakia,1123.0
+1990,germany,3271.0
+1990,west berlin,26.0
+1990,west germany,3283.0
+1990,east germany,122.0
+1990,hungary,1166.0
+1990,poland,3558.0
+1990,romania,3732.0
+1990,yugoslavia,1548.0
+1990,latvia,36.0
+1990,lithuania,13.0
+1990,other ussr/russia,18010.0
+1990,"europe, ns",11.0
+1990,china,44419.0
+1990,hong kong,11918.0
+1990,macau,440.0
+1990,taiwan,24279.0
+1990,japan,26875.0
+1990,korea,36926.0
+1990,north korea,19.0
+1990,south korea,4669.0
+1990,brunei,79.0
+1990,cambodia (kampuchea),9478.0
+1990,indonesia,5334.0
+1990,laos,13398.0
+1990,malaysia,3012.0
+1990,philippines,93110.0
+1990,singapore,1778.0
+1990,thailand,5581.0
+1990,vietnam,45649.0
+1990,afghanistan,3284.0
+1990,india,21075.0
+1990,bangladesh,1027.0
+1990,burma (myanmar),2206.0
+1990,pakistan,3468.0
+1990,sri lanka (ceylon),828.0
+1990,iran,28754.0
+1990,nepal,94.0
+1990,bahrain,59.0
+1990,cyprus,39.0
+1990,iraq,1052.0
+1990,israel/palestine,6145.0
+1990,palestine,662.0
+1990,west bank,33.0
+1990,jordan,1513.0
+1990,kuwait,589.0
+1990,lebanon,5415.0
+1990,qatar,123.0
+1990,saudi arabia,1019.0
+1990,syria,3697.0
+1990,turkey,1842.0
+1990,united arab emirates,16.0
+1990,yemen arab republic (north),230.0
+1990,"middle east, ns",31.0
+1990,"asia, nec/ns",112.0
+1990,algeria,138.0
+1990,egypt/united arab rep,3138.0
+1990,libya,60.0
+1990,morocco,607.0
+1990,sudan,341.0
+1990,tunisia,99.0
+1990,benin,40.0
+1990,burkina faso,16.0
+1990,gambia,23.0
+1990,ghana,125.0
+1990,guinea,31.0
+1990,ivory coast,108.0
+1990,liberia,121.0
+1990,mali,11.0
+1990,nigeria,1434.0
+1990,senegal,129.0
+1990,sierra leone,261.0
+1990,ethiopia,3532.0
+1990,kenya,1144.0
+1990,mauritius,83.0
+1990,mozambique,39.0
+1990,rwanda,18.0
+1990,seychelles,36.0
+1990,somalia,106.0
+1990,tanzania,205.0
+1990,uganda,250.0
+1990,zambia,218.0
+1990,zimbabwe,324.0
+1990,"eastern africa, nec/ns",75.0
+1990,angola,8.0
+1990,cameroon,24.0
+1990,congo,39.0
+1990,sao tome and principe,16.0
+1990,zaire,83.0
+1990,lesotho,60.0
+1990,south africa (union of),3014.0
+1990,"africa, ns/nec",582.0
+1990,australia,2328.0
+1990,new zealand,1369.0
+1990,papua new guinea,31.0
+1990,fiji,3790.0
+1990,french polynesia,65.0
+1990,tonga,901.0
+1990,western samoa,731.0
+1990,pitcairn island,83.0
+1990,"polynesia, ns",26.0
+1990,kiribati,18.0
+1990,marshall islands,228.0
+1990,micronesia,350.0
+1990,palau,125.0
+1990,"abroad, ns",63343.0
+2000,canada,12185.0
+2000,mexico,543910.0
+2000,belize/british honduras,2302.0
+2000,costa rica,1087.0
+2000,el salvador,29426.0
+2000,guatemala,35626.0
+2000,honduras,8706.0
+2000,nicaragua,3938.0
+2000,cuba,1284.0
+2000,jamaica,4005.0
+2000,bahamas,653.0
+2000,barbados,630.0
+2000,argentina,3164.0
+2000,brazil,19643.0
+2000,chile,627.0
+2000,colombia,4308.0
+2000,ecuador,583.0
+2000,peru,10480.0
+2000,uruguay,3773.0
+2000,venezuela,580.0
+2000,"south america, ns",800.0
+2000,denmark,722.0
+2000,norway,1298.0
+2000,sweden,4405.0
+2000,england,9407.0
+2000,scotland,1811.0
+2000,"united kingdom, ns",5933.0
+2000,ireland,2492.0
+2000,france,8993.0
+2000,netherlands,1314.0
+2000,switzerland,1854.0
+2000,"western europe, ns",1991.0
+2000,albania,629.0
+2000,greece,1235.0
+2000,macedonia,1239.0
+2000,italy,1223.0
+2000,azores,2029.0
+2000,spain,1868.0
+2000,bulgaria,575.0
+2000,czech republic,1846.0
+2000,germany,10378.0
+2000,hungary,628.0
+2000,poland,615.0
+2000,romania,2520.0
+2000,croatia,624.0
+2000,bosnia,9453.0
+2000,other ussr/russia,6395.0
+2000,moldavia,738.0
+2000,ukraine,9161.0
+2000,armenia,1809.0
+2000,republic of georgia,1198.0
+2000,"ussr, ns",1238.0
+2000,china,52140.0
+2000,hong kong,5763.0
+2000,macau,2138.0
+2000,taiwan,29757.0
+2000,japan,31033.0
+2000,korea,26277.0
+2000,south korea,4736.0
+2000,cambodia (kampuchea),4523.0
+2000,indonesia,4463.0
+2000,laos,4304.0
+2000,malaysia,2617.0
+2000,philippines,52875.0
+2000,singapore,1856.0
+2000,thailand,2268.0
+2000,vietnam,45984.0
+2000,afghanistan,624.0
+2000,india,59205.0
+2000,burma (myanmar),7555.0
+2000,pakistan,12996.0
+2000,sri lanka (ceylon),522.0
+2000,iran,6254.0
+2000,nepal,2359.0
+2000,iraq,2420.0
+2000,israel/palestine,2514.0
+2000,jordan,2450.0
+2000,lebanon,3161.0
+2000,saudi arabia,3772.0
+2000,syria,619.0
+2000,turkey,3089.0
+2000,"asia, nec/ns",609.0
+2000,algeria,2614.0
+2000,egypt/united arab rep,6821.0
+2000,morocco,674.0
+2000,sudan,1964.0
+2000,nigeria,9795.0
+2000,"western africa, ns",628.0
+2000,ethiopia,2511.0
+2000,kenya,3752.0
+2000,zimbabwe,585.0
+2000,eritrea,1997.0
+2000,central africa,3877.0
+2000,south africa (union of),5641.0
+2000,"africa, ns/nec",1741.0
+2000,australia,14410.0
+2000,new zealand,1848.0
+2000,fiji,3474.0
+2000,"oceania, ns/nec",635.0
+2001,canada,14857.0
+2001,bermuda,237.0
+2001,"north america, ns",215.0
+2001,mexico,578124.0
+2001,costa rica,1876.0
+2001,el salvador,40425.0
+2001,guatemala,21267.0
+2001,honduras,11195.0
+2001,nicaragua,3264.0
+2001,panama,406.0
+2001,cuba,1502.0
+2001,jamaica,1977.0
+2001,argentina,3281.0
+2001,bolivia,1677.0
+2001,brazil,11025.0
+2001,chile,802.0
+2001,colombia,5127.0
+2001,ecuador,3226.0
+2001,guyana/british guiana,368.0
+2001,peru,11952.0
+2001,venezuela,588.0
+2001,"south america, ns",258.0
+2001,denmark,1066.0
+2001,finland,710.0
+2001,norway,803.0
+2001,sweden,2769.0
+2001,england,5924.0
+2001,scotland,931.0
+2001,wales,645.0
+2001,"united kingdom, ns",6648.0
+2001,ireland,1150.0
+2001,belgium,1291.0
+2001,france,8854.0
+2001,netherlands,587.0
+2001,switzerland,1955.0
+2001,"western europe, ns",2480.0
+2001,albania,151.0
+2001,greece,722.0
+2001,italy,2597.0
+2001,portugal,422.0
+2001,spain,1196.0
+2001,austria,229.0
+2001,bulgaria,521.0
+2001,slovakia,170.0
+2001,germany,11499.0
+2001,hungary,362.0
+2001,poland,2543.0
+2001,romania,4717.0
+2001,yugoslavia,1134.0
+2001,croatia,623.0
+2001,serbia,135.0
+2001,bosnia,2221.0
+2001,estonia,543.0
+2001,lithuania,205.0
+2001,other ussr/russia,9345.0
+2001,byelorussia,408.0
+2001,moldavia,1388.0
+2001,ukraine,11534.0
+2001,armenia,7645.0
+2001,azerbaijan,849.0
+2001,uzbekistan,240.0
+2001,"ussr, ns",1253.0
+2001,china,63340.0
+2001,hong kong,10574.0
+2001,macau,138.0
+2001,taiwan,26866.0
+2001,japan,30587.0
+2001,korea,28454.0
+2001,south korea,4890.0
+2001,cambodia (kampuchea),2021.0
+2001,indonesia,8572.0
+2001,laos,453.0
+2001,malaysia,1934.0
+2001,philippines,74867.0
+2001,singapore,1152.0
+2001,thailand,3669.0
+2001,vietnam,25873.0
+2001,afghanistan,1193.0
+2001,india,89217.0
+2001,bangladesh,3374.0
+2001,burma (myanmar),1668.0
+2001,pakistan,5175.0
+2001,sri lanka (ceylon),978.0
+2001,iran,17702.0
+2001,cyprus,223.0
+2001,iraq,851.0
+2001,israel/palestine,3080.0
+2001,jordan,3644.0
+2001,kuwait,725.0
+2001,lebanon,4535.0
+2001,saudi arabia,1069.0
+2001,syria,1644.0
+2001,turkey,4992.0
+2001,yemen arab republic (north),376.0
+2001,"southwest asia, nec/ns",797.0
+2001,"asia, nec/ns",862.0
+2001,algeria,184.0
+2001,egypt/united arab rep,1500.0
+2001,morocco,1585.0
+2001,sudan,656.0
+2001,liberia,246.0
+2001,nigeria,3353.0
+2001,sierra leone,499.0
+2001,"western africa, ns",236.0
+2001,ethiopia,4920.0
+2001,kenya,1054.0
+2001,somalia,1980.0
+2001,uganda,232.0
+2001,"eastern africa, nec/ns",326.0
+2001,eritrea,490.0
+2001,central africa,4172.0
+2001,cameroon,2283.0
+2001,south africa (union of),3613.0
+2001,"africa, ns/nec",2366.0
+2001,australia,5995.0
+2001,new zealand,2090.0
+2001,fiji,8179.0
+2001,tonga,364.0
+2001,micronesia,856.0
+2001,"oceania, ns/nec",1327.0
+2002,canada,23147.0
+2002,"north america, ns",843.0
+2002,mexico,564320.0
+2002,belize/british honduras,1268.0
+2002,costa rica,390.0
+2002,el salvador,39329.0
+2002,guatemala,25806.0
+2002,honduras,5256.0
+2002,nicaragua,1784.0
+2002,cuba,197.0
+2002,dominican republic,576.0
+2002,jamaica,1315.0
+2002,trinidad and tobago,194.0
+2002,"caribbean, ns",758.0
+2002,argentina,2599.0
+2002,bolivia,258.0
+2002,brazil,9443.0
+2002,chile,2050.0
+2002,colombia,8676.0
+2002,ecuador,2002.0
+2002,peru,5303.0
+2002,venezuela,3653.0
+2002,"south america, ns",227.0
+2002,denmark,1526.0
+2002,finland,3982.0
+2002,norway,581.0
+2002,sweden,3237.0
+2002,england,5960.0
+2002,scotland,265.0
+2002,wales,233.0
+2002,"united kingdom, ns",9126.0
+2002,ireland,1439.0
+2002,northern ireland,478.0
+2002,belgium,512.0
+2002,france,7570.0
+2002,netherlands,1956.0
+2002,switzerland,1763.0
+2002,albania,351.0
+2002,greece,987.0
+2002,macedonia,190.0
+2002,italy,1497.0
+2002,spain,2524.0
+2002,austria,1311.0
+2002,bulgaria,650.0
+2002,czechoslovakia,1062.0
+2002,czech republic,485.0
+2002,germany,15301.0
+2002,hungary,860.0
+2002,poland,2182.0
+2002,romania,3906.0
+2002,yugoslavia,2044.0
+2002,croatia,247.0
+2002,serbia,502.0
+2002,bosnia,2333.0
+2002,other ussr/russia,10888.0
+2002,byelorussia,590.0
+2002,moldavia,655.0
+2002,ukraine,12849.0
+2002,armenia,5540.0
+2002,azerbaijan,225.0
+2002,uzbekistan,219.0
+2002,china,59845.0
+2002,hong kong,7272.0
+2002,macau,1010.0
+2002,taiwan,26337.0
+2002,japan,28579.0
+2002,korea,41128.0
+2002,south korea,9342.0
+2002,cambodia (kampuchea),1845.0
+2002,indonesia,10143.0
+2002,laos,3810.0
+2002,malaysia,3325.0
+2002,philippines,69879.0
+2002,singapore,1428.0
+2002,thailand,6392.0
+2002,vietnam,40190.0
+2002,afghanistan,453.0
+2002,india,88479.0
+2002,bangladesh,1943.0
+2002,burma (myanmar),3015.0
+2002,pakistan,8036.0
+2002,sri lanka (ceylon),3677.0
+2002,iran,28044.0
+2002,nepal,767.0
+2002,iraq,2277.0
+2002,israel/palestine,4278.0
+2002,jordan,392.0
+2002,kuwait,1604.0
+2002,lebanon,1438.0
+2002,saudi arabia,2171.0
+2002,syria,1030.0
+2002,turkey,3088.0
+2002,"asia minor, ns",228.0
+2002,egypt/united arab rep,4238.0
+2002,morocco,1905.0
+2002,sudan,996.0
+2002,ghana,260.0
+2002,liberia,925.0
+2002,nigeria,2522.0
+2002,sierra leone,494.0
+2002,"western africa, ns",1563.0
+2002,ethiopia,1904.0
+2002,kenya,1343.0
+2002,somalia,2748.0
+2002,tanzania,953.0
+2002,uganda,3636.0
+2002,eritrea,586.0
+2002,central africa,239.0
+2002,south africa (union of),3420.0
+2002,"africa, ns/nec",2926.0
+2002,australia,4231.0
+2002,new zealand,669.0
+2002,fiji,7736.0
+2002,tonga,1209.0
+2002,"oceania, ns/nec",769.0
+2003,"samoa, 1940-1950",1905.0
+2003,canada,12773.0
+2003,mexico,555458.0
+2003,costa rica,2005.0
+2003,el salvador,45720.0
+2003,guatemala,41688.0
+2003,honduras,10670.0
+2003,nicaragua,6992.0
+2003,panama,1412.0
+2003,cuba,3606.0
+2003,dominican republic,477.0
+2003,haiti,325.0
+2003,jamaica,536.0
+2003,trinidad and tobago,1196.0
+2003,"caribbean, ns",944.0
+2003,argentina,3861.0
+2003,bolivia,465.0
+2003,brazil,3898.0
+2003,chile,648.0
+2003,colombia,14940.0
+2003,ecuador,3123.0
+2003,guyana/british guiana,183.0
+2003,paraguay,989.0
+2003,peru,12058.0
+2003,uruguay,176.0
+2003,venezuela,1621.0
+2003,denmark,367.0
+2003,finland,736.0
+2003,norway,2031.0
+2003,sweden,1883.0
+2003,england,6734.0
+2003,scotland,193.0
+2003,"united kingdom, ns",3867.0
+2003,ireland,1458.0
+2003,northern ireland,230.0
+2003,belgium,561.0
+2003,france,4825.0
+2003,netherlands,1564.0
+2003,switzerland,1231.0
+2003,greece,988.0
+2003,italy,2005.0
+2003,portugal,863.0
+2003,azores,195.0
+2003,spain,2062.0
+2003,austria,1728.0
+2003,bulgaria,2230.0
+2003,czechoslovakia,207.0
+2003,slovakia,1195.0
+2003,czech republic,1014.0
+2003,germany,5481.0
+2003,hungary,655.0
+2003,poland,2031.0
+2003,romania,4183.0
+2003,yugoslavia,1822.0
+2003,serbia,437.0
+2003,bosnia,912.0
+2003,latvia,401.0
+2003,lithuania,3718.0
+2003,other ussr/russia,12035.0
+2003,byelorussia,1207.0
+2003,moldavia,3002.0
+2003,ukraine,10463.0
+2003,armenia,9503.0
+2003,azerbaijan,231.0
+2003,republic of georgia,212.0
+2003,uzbekistan,100.0
+2003,"ussr, ns",355.0
+2003,"europe, ns",549.0
+2003,china,53742.0
+2003,hong kong,7577.0
+2003,taiwan,26560.0
+2003,japan,26930.0
+2003,korea,31955.0
+2003,south korea,18618.0
+2003,"east asia, ns",207.0
+2003,cambodia (kampuchea),1404.0
+2003,indonesia,10460.0
+2003,laos,933.0
+2003,malaysia,2993.0
+2003,philippines,73566.0
+2003,singapore,598.0
+2003,thailand,4048.0
+2003,vietnam,32275.0
+2003,afghanistan,2004.0
+2003,india,78824.0
+2003,bangladesh,899.0
+2003,burma (myanmar),4760.0
+2003,pakistan,6752.0
+2003,sri lanka (ceylon),3640.0
+2003,iran,18398.0
+2003,nepal,969.0
+2003,iraq,4496.0
+2003,israel/palestine,4120.0
+2003,jordan,1565.0
+2003,kuwait,254.0
+2003,lebanon,4385.0
+2003,syria,4123.0
+2003,turkey,3797.0
+2003,yemen arab republic (north),1281.0
+2003,"asia, nec/ns",458.0
+2003,algeria,442.0
+2003,egypt/united arab rep,3412.0
+2003,morocco,990.0
+2003,sudan,628.0
+2003,nigeria,1044.0
+2003,"western africa, ns",1348.0
+2003,ethiopia,3430.0
+2003,kenya,1757.0
+2003,somalia,194.0
+2003,tanzania,866.0
+2003,uganda,654.0
+2003,zimbabwe,544.0
+2003,"eastern africa, nec/ns",516.0
+2003,eritrea,576.0
+2003,south africa (union of),835.0
+2003,"africa, ns/nec",281.0
+2003,australia,4492.0
+2003,new zealand,1527.0
+2003,fiji,4529.0
+2003,tonga,1629.0
+2003,"oceania, ns/nec",256.0
+2004,canada,16496.0
+2004,mexico,545467.0
+2004,belize/british honduras,1825.0
+2004,costa rica,552.0
+2004,el salvador,47931.0
+2004,guatemala,36217.0
+2004,honduras,5901.0
+2004,nicaragua,3844.0
+2004,panama,929.0
+2004,cuba,1982.0
+2004,jamaica,1202.0
+2004,trinidad and tobago,536.0
+2004,"west indies, ns",155.0
+2004,argentina,8840.0
+2004,bolivia,923.0
+2004,brazil,8109.0
+2004,chile,1186.0
+2004,colombia,3559.0
+2004,ecuador,794.0
+2004,guyana/british guiana,587.0
+2004,paraguay,745.0
+2004,peru,10298.0
+2004,uruguay,669.0
+2004,venezuela,4115.0
+2004,denmark,492.0
+2004,finland,857.0
+2004,sweden,1582.0
+2004,england,2125.0
+2004,scotland,802.0
+2004,"united kingdom, ns",4598.0
+2004,ireland,670.0
+2004,belgium,885.0
+2004,france,5390.0
+2004,netherlands,1484.0
+2004,switzerland,2064.0
+2004,albania,859.0
+2004,greece,206.0
+2004,italy,1564.0
+2004,portugal,1368.0
+2004,spain,3069.0
+2004,austria,859.0
+2004,bulgaria,1806.0
+2004,czech republic,642.0
+2004,germany,7704.0
+2004,hungary,175.0
+2004,poland,2435.0
+2004,romania,1958.0
+2004,croatia,202.0
+2004,serbia,132.0
+2004,bosnia,1361.0
+2004,lithuania,552.0
+2004,other ussr/russia,7644.0
+2004,byelorussia,3665.0
+2004,moldavia,566.0
+2004,ukraine,1872.0
+2004,armenia,10676.0
+2004,uzbekistan,1385.0
+2004,"ussr, ns",166.0
+2004,"europe, ns",648.0
+2004,china,57272.0
+2004,hong kong,8441.0
+2004,taiwan,17547.0
+2004,japan,32578.0
+2004,korea,23302.0
+2004,south korea,17640.0
+2004,"east asia, ns",2955.0
+2004,cambodia (kampuchea),553.0
+2004,indonesia,7105.0
+2004,laos,1165.0
+2004,malaysia,1591.0
+2004,philippines,85134.0
+2004,singapore,3959.0
+2004,thailand,5443.0
+2004,vietnam,32558.0
+2004,afghanistan,1715.0
+2004,india,60598.0
+2004,bangladesh,2238.0
+2004,burma (myanmar),3315.0
+2004,pakistan,4612.0
+2004,iran,23962.0
+2004,nepal,1769.0
+2004,iraq,1652.0
+2004,israel/palestine,4470.0
+2004,jordan,533.0
+2004,kuwait,427.0
+2004,lebanon,2984.0
+2004,saudi arabia,175.0
+2004,syria,3365.0
+2004,turkey,1595.0
+2004,"asia, nec/ns",1838.0
+2004,egypt/united arab rep,3924.0
+2004,morocco,736.0
+2004,sudan,1797.0
+2004,ghana,664.0
+2004,liberia,893.0
+2004,nigeria,4070.0
+2004,"western africa, ns",1092.0
+2004,ethiopia,2307.0
+2004,kenya,2554.0
+2004,"eastern africa, nec/ns",286.0
+2004,eritrea,296.0
+2004,south africa (union of),3075.0
+2004,"africa, ns/nec",4352.0
+2004,australia,2177.0
+2004,new zealand,1890.0
+2004,fiji,7535.0
+2004,tonga,282.0
+2004,micronesia,434.0
+2005,"samoa, 1940-1950",285.0
+2005,canada,12777.0
+2005,mexico,545303.0
+2005,belize/british honduras,116.0
+2005,costa rica,582.0
+2005,el salvador,40768.0
+2005,guatemala,44398.0
+2005,honduras,7775.0
+2005,nicaragua,3985.0
+2005,panama,307.0
+2005,cuba,1156.0
+2005,dominican republic,423.0
+2005,haiti,201.0
+2005,jamaica,607.0
+2005,grenada,134.0
+2005,st. lucia,59.0
+2005,trinidad and tobago,573.0
+2005,"americas, ns",275.0
+2005,argentina,4725.0
+2005,bolivia,1112.0
+2005,brazil,5188.0
+2005,chile,2416.0
+2005,colombia,6260.0
+2005,ecuador,1089.0
+2005,guyana/british guiana,433.0
+2005,paraguay,72.0
+2005,peru,10263.0
+2005,uruguay,841.0
+2005,venezuela,1662.0
+2005,denmark,1212.0
+2005,finland,605.0
+2005,norway,430.0
+2005,sweden,2343.0
+2005,england,5664.0
+2005,scotland,206.0
+2005,"united kingdom, ns",4519.0
+2005,ireland,2450.0
+2005,northern ireland,703.0
+2005,belgium,855.0
+2005,france,5017.0
+2005,netherlands,1367.0
+2005,switzerland,872.0
+2005,albania,121.0
+2005,greece,448.0
+2005,macedonia,210.0
+2005,italy,1918.0
+2005,portugal,1309.0
+2005,spain,2092.0
+2005,austria,327.0
+2005,bulgaria,6249.0
+2005,czechoslovakia,63.0
+2005,czech republic,578.0
+2005,germany,5791.0
+2005,hungary,1039.0
+2005,poland,2035.0
+2005,romania,2904.0
+2005,yugoslavia,1410.0
+2005,croatia,155.0
+2005,bosnia,461.0
+2005,latvia,606.0
+2005,lithuania,1190.0
+2005,other ussr/russia,7410.0
+2005,byelorussia,2399.0
+2005,moldavia,795.0
+2005,ukraine,9323.0
+2005,armenia,7271.0
+2005,azerbaijan,403.0
+2005,republic of georgia,407.0
+2005,kazakhstan,313.0
+2005,uzbekistan,1312.0
+2005,"ussr, ns",888.0
+2005,"europe, ns",476.0
+2005,china,48895.0
+2005,hong kong,7092.0
+2005,taiwan,21279.0
+2005,japan,31328.0
+2005,korea,52111.0
+2005,"east asia, ns",1258.0
+2005,cambodia (kampuchea),3132.0
+2005,indonesia,6243.0
+2005,laos,1304.0
+2005,malaysia,3183.0
+2005,philippines,94556.0
+2005,singapore,1945.0
+2005,thailand,8766.0
+2005,vietnam,27125.0
+2005,afghanistan,1682.0
+2005,india,64625.0
+2005,bangladesh,1395.0
+2005,burma (myanmar),1792.0
+2005,pakistan,5100.0
+2005,sri lanka (ceylon),1964.0
+2005,iran,18132.0
+2005,nepal,707.0
+2005,iraq,1274.0
+2005,israel/palestine,5152.0
+2005,jordan,1221.0
+2005,kuwait,91.0
+2005,lebanon,1937.0
+2005,saudi arabia,567.0
+2005,syria,3041.0
+2005,turkey,2154.0
+2005,yemen arab republic (north),890.0
+2005,"asia, nec/ns",1721.0
+2005,algeria,477.0
+2005,egypt/united arab rep,3059.0
+2005,morocco,641.0
+2005,sudan,181.0
+2005,"north africa, ns",161.0
+2005,ghana,1540.0
+2005,liberia,716.0
+2005,nigeria,2842.0
+2005,sierra leone,46.0
+2005,"western africa, ns",1382.0
+2005,ethiopia,3086.0
+2005,kenya,1038.0
+2005,somalia,1588.0
+2005,tanzania,144.0
+2005,uganda,738.0
+2005,zimbabwe,1190.0
+2005,"eastern africa, nec/ns",535.0
+2005,eritrea,885.0
+2005,cameroon,155.0
+2005,south africa (union of),1391.0
+2005,"africa, ns/nec",3199.0
+2005,australia,3869.0
+2005,new zealand,1056.0
+2005,fiji,2652.0
+2005,tonga,1039.0
+2005,micronesia,165.0
+2005,other n.e.c,818.0
+2006,"samoa, 1940-1950",434.0
+2006,canada,11308.0
+2006,bermuda,283.0
+2006,mexico,500030.0
+2006,belize/british honduras,1238.0
+2006,costa rica,563.0
+2006,el salvador,36996.0
+2006,guatemala,47509.0
+2006,honduras,7042.0
+2006,nicaragua,3464.0
+2006,panama,920.0
+2006,cuba,1461.0
+2006,dominican republic,217.0
+2006,haiti,109.0
+2006,jamaica,1259.0
+2006,trinidad and tobago,99.0
+2006,"caribbean, ns",52.0
+2006,"americas, ns",486.0
+2006,argentina,6218.0
+2006,bolivia,697.0
+2006,brazil,7607.0
+2006,chile,572.0
+2006,colombia,5609.0
+2006,ecuador,2672.0
+2006,guyana/british guiana,78.0
+2006,paraguay,154.0
+2006,peru,12326.0
+2006,uruguay,165.0
+2006,venezuela,2046.0
+2006,denmark,663.0
+2006,finland,167.0
+2006,norway,540.0
+2006,sweden,2987.0
+2006,england,3577.0
+2006,scotland,397.0
+2006,"united kingdom, ns",4403.0
+2006,ireland,1391.0
+2006,northern ireland,175.0
+2006,belgium,550.0
+2006,france,5433.0
+2006,netherlands,1038.0
+2006,switzerland,871.0
+2006,albania,157.0
+2006,greece,265.0
+2006,italy,3224.0
+2006,portugal,1776.0
+2006,spain,2220.0
+2006,austria,859.0
+2006,bulgaria,2836.0
+2006,czechoslovakia,55.0
+2006,slovakia,381.0
+2006,czech republic,476.0
+2006,germany,7087.0
+2006,hungary,556.0
+2006,poland,2587.0
+2006,romania,1900.0
+2006,yugoslavia,154.0
+2006,croatia,85.0
+2006,bosnia,75.0
+2006,estonia,81.0
+2006,latvia,289.0
+2006,other ussr/russia,7372.0
+2006,byelorussia,1153.0
+2006,moldavia,946.0
+2006,ukraine,7076.0
+2006,armenia,6990.0
+2006,azerbaijan,520.0
+2006,republic of georgia,224.0
+2006,kazakhstan,520.0
+2006,uzbekistan,695.0
+2006,"ussr, ns",992.0
+2006,"europe, ns",131.0
+2006,china,54439.0
+2006,hong kong,5065.0
+2006,taiwan,19119.0
+2006,japan,27974.0
+2006,korea,43681.0
+2006,"east asia, ns",1340.0
+2006,cambodia (kampuchea),3506.0
+2006,indonesia,4753.0
+2006,laos,1384.0
+2006,malaysia,1702.0
+2006,philippines,88719.0
+2006,singapore,1471.0
+2006,thailand,6065.0
+2006,vietnam,36976.0
+2006,afghanistan,2599.0
+2006,india,64284.0
+2006,bangladesh,2232.0
+2006,burma (myanmar),4384.0
+2006,pakistan,5916.0
+2006,sri lanka (ceylon),1919.0
+2006,iran,18706.0
+2006,nepal,847.0
+2006,iraq,1570.0
+2006,israel/palestine,2724.0
+2006,jordan,1844.0
+2006,kuwait,477.0
+2006,lebanon,2413.0
+2006,saudi arabia,1304.0
+2006,syria,2998.0
+2006,turkey,2571.0
+2006,yemen arab republic (north),1055.0
+2006,"asia, nec/ns",969.0
+2006,algeria,120.0
+2006,egypt/united arab rep,3213.0
+2006,morocco,1109.0
+2006,sudan,245.0
+2006,"north africa, ns",110.0
+2006,ghana,902.0
+2006,liberia,407.0
+2006,nigeria,4716.0
+2006,sierra leone,382.0
+2006,"western africa, ns",236.0
+2006,ethiopia,1910.0
+2006,kenya,1897.0
+2006,somalia,670.0
+2006,tanzania,59.0
+2006,uganda,388.0
+2006,zimbabwe,164.0
+2006,"eastern africa, nec/ns",128.0
+2006,eritrea,1312.0
+2006,cameroon,523.0
+2006,south africa (union of),1268.0
+2006,"africa, ns/nec",1423.0
+2006,australia,3581.0
+2006,new zealand,983.0
+2006,fiji,3124.0
+2006,tonga,1126.0
+2006,micronesia,257.0
+2006,other n.e.c,1243.0
+2007,"samoa, 1940-1950",1378.0
+2007,canada,9530.0
+2007,bermuda,284.0
+2007,mexico,499450.0
+2007,belize/british honduras,1330.0
+2007,costa rica,526.0
+2007,el salvador,42077.0
+2007,guatemala,39094.0
+2007,honduras,7369.0
+2007,nicaragua,2335.0
+2007,panama,570.0
+2007,cuba,2552.0
+2007,dominican republic,2080.0
+2007,haiti,183.0
+2007,jamaica,747.0
+2007,barbados,31.0
+2007,trinidad and tobago,672.0
+2007,"americas, ns",92.0
+2007,argentina,1949.0
+2007,bolivia,888.0
+2007,brazil,5932.0
+2007,chile,1395.0
+2007,colombia,5564.0
+2007,ecuador,910.0
+2007,guyana/british guiana,470.0
+2007,paraguay,173.0
+2007,peru,8967.0
+2007,uruguay,389.0
+2007,venezuela,1700.0
+2007,denmark,538.0
+2007,finland,114.0
+2007,iceland,73.0
+2007,norway,343.0
+2007,sweden,1999.0
+2007,england,4516.0
+2007,scotland,371.0
+2007,"united kingdom, ns",4692.0
+2007,ireland,1803.0
+2007,belgium,377.0
+2007,france,4224.0
+2007,netherlands,1428.0
+2007,switzerland,1020.0
+2007,greece,409.0
+2007,macedonia,479.0
+2007,italy,2732.0
+2007,portugal,497.0
+2007,azores,73.0
+2007,spain,1947.0
+2007,austria,335.0
+2007,bulgaria,1364.0
+2007,slovakia,544.0
+2007,czech republic,408.0
+2007,germany,5506.0
+2007,hungary,736.0
+2007,poland,1797.0
+2007,romania,2187.0
+2007,yugoslavia,221.0
+2007,croatia,138.0
+2007,bosnia,262.0
+2007,latvia,854.0
+2007,lithuania,858.0
+2007,other ussr/russia,8783.0
+2007,byelorussia,538.0
+2007,moldavia,1063.0
+2007,ukraine,5328.0
+2007,armenia,7805.0
+2007,azerbaijan,446.0
+2007,republic of georgia,580.0
+2007,kazakhstan,423.0
+2007,uzbekistan,1236.0
+2007,"europe, ns",463.0
+2007,china,55129.0
+2007,hong kong,5650.0
+2007,taiwan,16561.0
+2007,japan,24275.0
+2007,korea,45641.0
+2007,"east asia, ns",1781.0
+2007,cambodia (kampuchea),3265.0
+2007,indonesia,5146.0
+2007,laos,2230.0
+2007,malaysia,2352.0
+2007,philippines,92212.0
+2007,singapore,1115.0
+2007,thailand,7281.0
+2007,vietnam,33995.0
+2007,afghanistan,1929.0
+2007,india,63512.0
+2007,bangladesh,1108.0
+2007,burma (myanmar),3366.0
+2007,pakistan,3598.0
+2007,sri lanka (ceylon),1448.0
+2007,iran,13746.0
+2007,nepal,2096.0
+2007,iraq,576.0
+2007,israel/palestine,3950.0
+2007,jordan,1506.0
+2007,kuwait,543.0
+2007,lebanon,1913.0
+2007,saudi arabia,1633.0
+2007,syria,831.0
+2007,turkey,4327.0
+2007,yemen arab republic (north),596.0
+2007,"asia, nec/ns",2463.0
+2007,algeria,654.0
+2007,egypt/united arab rep,3545.0
+2007,morocco,1630.0
+2007,sudan,1204.0
+2007,"north africa, ns",201.0
+2007,ghana,432.0
+2007,liberia,330.0
+2007,nigeria,3788.0
+2007,senegal,71.0
+2007,"western africa, ns",122.0
+2007,ethiopia,2079.0
+2007,kenya,1345.0
+2007,somalia,1149.0
+2007,tanzania,425.0
+2007,uganda,218.0
+2007,zimbabwe,219.0
+2007,"eastern africa, nec/ns",300.0
+2007,eritrea,575.0
+2007,cameroon,543.0
+2007,south africa (union of),2683.0
+2007,"africa, ns/nec",1792.0
+2007,australia,3752.0
+2007,new zealand,1548.0
+2007,fiji,3790.0
+2007,tonga,704.0
+2007,other n.e.c,809.0
+2008,"samoa, 1940-1950",334.0
+2008,canada,13352.0
+2008,mexico,431611.0
+2008,belize/british honduras,602.0
+2008,costa rica,817.0
+2008,el salvador,37243.0
+2008,guatemala,41056.0
+2008,honduras,9773.0
+2008,nicaragua,4549.0
+2008,panama,866.0
+2008,cuba,1569.0
+2008,dominican republic,443.0
+2008,haiti,81.0
+2008,jamaica,1754.0
+2008,bahamas,223.0
+2008,grenada,82.0
+2008,trinidad and tobago,251.0
+2008,"caribbean, ns",66.0
+2008,"west indies, ns",140.0
+2008,"americas, ns",143.0
+2008,argentina,3025.0
+2008,bolivia,780.0
+2008,brazil,7778.0
+2008,chile,1457.0
+2008,colombia,2889.0
+2008,ecuador,2096.0
+2008,peru,6861.0
+2008,uruguay,128.0
+2008,venezuela,683.0
+2008,"south america, ns",484.0
+2008,denmark,725.0
+2008,finland,709.0
+2008,iceland,371.0
+2008,norway,63.0
+2008,sweden,2034.0
+2008,england,3875.0
+2008,scotland,368.0
+2008,"united kingdom, ns",4441.0
+2008,ireland,1470.0
+2008,northern ireland,429.0
+2008,belgium,1004.0
+2008,france,4544.0
+2008,netherlands,1633.0
+2008,switzerland,675.0
+2008,albania,226.0
+2008,greece,200.0
+2008,macedonia,302.0
+2008,italy,3310.0
+2008,portugal,517.0
+2008,azores,28.0
+2008,spain,2465.0
+2008,austria,859.0
+2008,bulgaria,1401.0
+2008,czechoslovakia,123.0
+2008,slovakia,257.0
+2008,czech republic,1295.0
+2008,germany,9044.0
+2008,hungary,301.0
+2008,poland,1581.0
+2008,romania,1531.0
+2008,yugoslavia,89.0
+2008,croatia,180.0
+2008,estonia,532.0
+2008,lithuania,441.0
+2008,other ussr/russia,6491.0
+2008,byelorussia,557.0
+2008,moldavia,807.0
+2008,ukraine,5206.0
+2008,armenia,4800.0
+2008,azerbaijan,65.0
+2008,republic of georgia,577.0
+2008,kazakhstan,1056.0
+2008,uzbekistan,755.0
+2008,"ussr, ns",413.0
+2008,china,49721.0
+2008,hong kong,6193.0
+2008,taiwan,13941.0
+2008,japan,20211.0
+2008,korea,38658.0
+2008,"east asia, ns",2048.0
+2008,cambodia (kampuchea),4815.0
+2008,indonesia,4952.0
+2008,laos,2233.0
+2008,malaysia,2099.0
+2008,philippines,88493.0
+2008,singapore,1277.0
+2008,thailand,7123.0
+2008,vietnam,36033.0
+2008,afghanistan,1886.0
+2008,india,77133.0
+2008,bangladesh,577.0
+2008,burma (myanmar),3832.0
+2008,pakistan,3439.0
+2008,sri lanka (ceylon),1717.0
+2008,iran,19176.0
+2008,nepal,1254.0
+2008,iraq,3937.0
+2008,israel/palestine,4240.0
+2008,jordan,1852.0
+2008,kuwait,242.0
+2008,lebanon,1574.0
+2008,saudi arabia,1076.0
+2008,syria,834.0
+2008,turkey,1468.0
+2008,yemen arab republic (north),492.0
+2008,"asia, nec/ns",3554.0
+2008,algeria,132.0
+2008,egypt/united arab rep,2915.0
+2008,morocco,715.0
+2008,sudan,475.0
+2008,"north africa, ns",253.0
+2008,ghana,463.0
+2008,guinea,69.0
+2008,nigeria,2604.0
+2008,senegal,943.0
+2008,sierra leone,226.0
+2008,"western africa, ns",429.0
+2008,ethiopia,2945.0
+2008,kenya,2848.0
+2008,somalia,381.0
+2008,tanzania,195.0
+2008,uganda,518.0
+2008,zimbabwe,439.0
+2008,"eastern africa, nec/ns",229.0
+2008,eritrea,1164.0
+2008,cameroon,186.0
+2008,south africa (union of),2535.0
+2008,"africa, ns/nec",3081.0
+2008,australia,3820.0
+2008,new zealand,1043.0
+2008,fiji,4152.0
+2008,tonga,271.0
+2008,micronesia,241.0
+2009,"samoa, 1940-1950",253.0
+2009,canada,9910.0
+2009,mexico,369385.0
+2009,belize/british honduras,923.0
+2009,costa rica,470.0
+2009,el salvador,40873.0
+2009,guatemala,45722.0
+2009,honduras,10406.0
+2009,nicaragua,5867.0
+2009,panama,371.0
+2009,cuba,2796.0
+2009,dominican republic,707.0
+2009,jamaica,1343.0
+2009,bahamas,71.0
+2009,st. lucia,73.0
+2009,trinidad and tobago,305.0
+2009,"caribbean, ns",237.0
+2009,"west indies, ns",144.0
+2009,"americas, ns",53.0
+2009,argentina,1326.0
+2009,bolivia,592.0
+2009,brazil,6860.0
+2009,chile,326.0
+2009,colombia,2240.0
+2009,ecuador,1310.0
+2009,guyana/british guiana,125.0
+2009,paraguay,66.0
+2009,peru,4997.0
+2009,uruguay,61.0
+2009,venezuela,1599.0
+2009,denmark,638.0
+2009,finland,656.0
+2009,sweden,938.0
+2009,england,4249.0
+2009,scotland,210.0
+2009,"united kingdom, ns",6723.0
+2009,ireland,1564.0
+2009,belgium,403.0
+2009,france,5792.0
+2009,netherlands,1811.0
+2009,switzerland,1080.0
+2009,albania,374.0
+2009,greece,461.0
+2009,italy,1482.0
+2009,portugal,200.0
+2009,spain,2454.0
+2009,austria,593.0
+2009,bulgaria,1380.0
+2009,czechoslovakia,264.0
+2009,czech republic,518.0
+2009,germany,6333.0
+2009,hungary,240.0
+2009,poland,1188.0
+2009,romania,2169.0
+2009,yugoslavia,747.0
+2009,croatia,315.0
+2009,bosnia,71.0
+2009,latvia,502.0
+2009,lithuania,195.0
+2009,other ussr/russia,5778.0
+2009,byelorussia,839.0
+2009,moldavia,2611.0
+2009,ukraine,4459.0
+2009,armenia,5540.0
+2009,republic of georgia,526.0
+2009,kazakhstan,948.0
+2009,uzbekistan,964.0
+2009,"ussr, ns",195.0
+2009,"europe, ns",96.0
+2009,china,58570.0
+2009,hong kong,4964.0
+2009,taiwan,14317.0
+2009,japan,18917.0
+2009,korea,37786.0
+2009,"east asia, ns",642.0
+2009,cambodia (kampuchea),2649.0
+2009,indonesia,3738.0
+2009,laos,2068.0
+2009,malaysia,600.0
+2009,philippines,80683.0
+2009,singapore,1966.0
+2009,thailand,9428.0
+2009,vietnam,27347.0
+2009,afghanistan,3079.0
+2009,india,71200.0
+2009,bangladesh,1699.0
+2009,burma (myanmar),3407.0
+2009,pakistan,4049.0
+2009,sri lanka (ceylon),2413.0
+2009,iran,17702.0
+2009,nepal,908.0
+2009,iraq,4855.0
+2009,israel/palestine,1631.0
+2009,jordan,1485.0
+2009,kuwait,60.0
+2009,lebanon,1837.0
+2009,saudi arabia,2829.0
+2009,syria,1250.0
+2009,turkey,1562.0
+2009,yemen arab republic (north),584.0
+2009,"asia, nec/ns",2677.0
+2009,algeria,390.0
+2009,egypt/united arab rep,5350.0
+2009,morocco,507.0
+2009,sudan,78.0
+2009,"north africa, ns",92.0
+2009,ghana,563.0
+2009,nigeria,3295.0
+2009,senegal,131.0
+2009,sierra leone,539.0
+2009,"western africa, ns",372.0
+2009,ethiopia,3203.0
+2009,kenya,479.0
+2009,somalia,56.0
+2009,tanzania,71.0
+2009,"eastern africa, nec/ns",89.0
+2009,eritrea,1273.0
+2009,cameroon,110.0
+2009,south africa (union of),1954.0
+2009,"africa, ns/nec",950.0
+2009,australia,5466.0
+2009,new zealand,1307.0
+2009,fiji,5170.0
+2009,tonga,902.0
+2009,micronesia,161.0
+2009,other n.e.c,626.0
+2010,"samoa, 1940-1950",40.0
+2010,canada,12347.0
+2010,mexico,330547.0
+2010,belize/british honduras,1146.0
+2010,costa rica,708.0
+2010,el salvador,43512.0
+2010,guatemala,40260.0
+2010,honduras,6810.0
+2010,nicaragua,3274.0
+2010,panama,179.0
+2010,cuba,3343.0
+2010,dominican republic,722.0
+2010,haiti,555.0
+2010,jamaica,877.0
+2010,bahamas,50.0
+2010,trinidad and tobago,240.0
+2010,"west indies, ns",78.0
+2010,argentina,1838.0
+2010,bolivia,413.0
+2010,brazil,7421.0
+2010,chile,1724.0
+2010,colombia,4355.0
+2010,ecuador,2767.0
+2010,guyana/british guiana,410.0
+2010,peru,6698.0
+2010,uruguay,228.0
+2010,venezuela,1243.0
+2010,"south america, ns",144.0
+2010,denmark,801.0
+2010,finland,327.0
+2010,iceland,142.0
+2010,norway,250.0
+2010,sweden,2257.0
+2010,england,3935.0
+2010,scotland,132.0
+2010,"united kingdom, ns",5851.0
+2010,ireland,1375.0
+2010,northern ireland,734.0
+2010,belgium,458.0
+2010,france,5521.0
+2010,netherlands,1124.0
+2010,switzerland,1149.0
+2010,albania,444.0
+2010,greece,81.0
+2010,macedonia,95.0
+2010,italy,3500.0
+2010,portugal,585.0
+2010,azores,81.0
+2010,spain,2837.0
+2010,austria,666.0
+2010,bulgaria,941.0
+2010,slovakia,551.0
+2010,czech republic,246.0
+2010,germany,7547.0
+2010,hungary,1316.0
+2010,poland,2244.0
+2010,romania,2555.0
+2010,yugoslavia,1252.0
+2010,croatia,141.0
+2010,bosnia,800.0
+2010,estonia,63.0
+2010,latvia,372.0
+2010,lithuania,170.0
+2010,other ussr/russia,5349.0
+2010,byelorussia,1084.0
+2010,moldavia,1713.0
+2010,ukraine,5248.0
+2010,armenia,7394.0
+2010,kazakhstan,425.0
+2010,uzbekistan,1255.0
+2010,"ussr, ns",557.0
+2010,"europe, ns",93.0
+2010,china,85949.0
+2010,hong kong,4483.0
+2010,taiwan,17001.0
+2010,japan,17445.0
+2010,korea,43617.0
+2010,"east asia, ns",932.0
+2010,cambodia (kampuchea),3474.0
+2010,indonesia,5350.0
+2010,laos,3292.0
+2010,malaysia,2243.0
+2010,philippines,82042.0
+2010,singapore,2385.0
+2010,thailand,7112.0
+2010,vietnam,34248.0
+2010,afghanistan,1807.0
+2010,india,71031.0
+2010,bangladesh,1568.0
+2010,burma (myanmar),1989.0
+2010,pakistan,3668.0
+2010,sri lanka (ceylon),1115.0
+2010,iran,18880.0
+2010,nepal,2516.0
+2010,iraq,12169.0
+2010,israel/palestine,4144.0
+2010,jordan,381.0
+2010,kuwait,595.0
+2010,lebanon,1477.0
+2010,saudi arabia,3936.0
+2010,syria,2208.0
+2010,turkey,4420.0
+2010,yemen arab republic (north),1582.0
+2010,"asia, nec/ns",3789.0
+2010,algeria,82.0
+2010,egypt/united arab rep,4662.0
+2010,morocco,1054.0
+2010,sudan,122.0
+2010,"north africa, ns",1478.0
+2010,ghana,762.0
+2010,guinea,80.0
+2010,liberia,643.0
+2010,nigeria,2102.0
+2010,sierra leone,719.0
+2010,"western africa, ns",466.0
+2010,ethiopia,3484.0
+2010,kenya,1312.0
+2010,somalia,130.0
+2010,tanzania,138.0
+2010,uganda,345.0
+2010,zimbabwe,70.0
+2010,"eastern africa, nec/ns",1126.0
+2010,eritrea,213.0
+2010,cameroon,400.0
+2010,south africa (union of),1465.0
+2010,"africa, ns/nec",811.0
+2010,australia,6278.0
+2010,new zealand,1141.0
+2010,fiji,3387.0
+2010,tonga,220.0
+2010,micronesia,416.0
+2010,other n.e.c,829.0
+2011,"samoa, 1940-1950",492.0
+2011,canada,10997.0
+2011,mexico,242442.0
+2011,belize/british honduras,980.0
+2011,costa rica,996.0
+2011,el salvador,32158.0
+2011,guatemala,27548.0
+2011,honduras,5727.0
+2011,nicaragua,4684.0
+2011,panama,470.0
+2011,cuba,1783.0
+2011,dominican republic,440.0
+2011,haiti,245.0
+2011,jamaica,1436.0
+2011,barbados,59.0
+2011,grenada,291.0
+2011,"americas, ns",567.0
+2011,argentina,1891.0
+2011,bolivia,287.0
+2011,brazil,6105.0
+2011,chile,964.0
+2011,colombia,2331.0
+2011,ecuador,1818.0
+2011,guyana/british guiana,356.0
+2011,paraguay,88.0
+2011,peru,4440.0
+2011,uruguay,56.0
+2011,venezuela,888.0
+2011,"south america, ns",129.0
+2011,denmark,2666.0
+2011,finland,248.0
+2011,iceland,171.0
+2011,norway,608.0
+2011,sweden,2440.0
+2011,england,3926.0
+2011,scotland,205.0
+2011,"united kingdom, ns",4740.0
+2011,ireland,3169.0
+2011,belgium,924.0
+2011,france,4660.0
+2011,netherlands,1898.0
+2011,switzerland,403.0
+2011,greece,208.0
+2011,italy,4287.0
+2011,portugal,502.0
+2011,spain,4171.0
+2011,austria,465.0
+2011,bulgaria,489.0
+2011,czechoslovakia,32.0
+2011,slovakia,240.0
+2011,czech republic,429.0
+2011,germany,7397.0
+2011,hungary,549.0
+2011,poland,890.0
+2011,romania,2976.0
+2011,yugoslavia,558.0
+2011,croatia,178.0
+2011,bosnia,123.0
+2011,latvia,49.0
+2011,lithuania,331.0
+2011,other ussr/russia,4589.0
+2011,byelorussia,1437.0
+2011,moldavia,2330.0
+2011,ukraine,3504.0
+2011,armenia,3552.0
+2011,azerbaijan,1369.0
+2011,republic of georgia,620.0
+2011,kazakhstan,243.0
+2011,uzbekistan,1708.0
+2011,"ussr, ns",490.0
+2011,"europe, ns",25.0
+2011,china,77679.0
+2011,hong kong,5628.0
+2011,taiwan,13351.0
+2011,japan,13892.0
+2011,korea,38015.0
+2011,"east asia, ns",803.0
+2011,cambodia (kampuchea),5655.0
+2011,indonesia,5574.0
+2011,laos,1152.0
+2011,malaysia,1348.0
+2011,philippines,82279.0
+2011,singapore,1749.0
+2011,thailand,7064.0
+2011,vietnam,28219.0
+2011,afghanistan,2226.0
+2011,india,83913.0
+2011,bangladesh,1990.0
+2011,burma (myanmar),2935.0
+2011,pakistan,6338.0
+2011,sri lanka (ceylon),1872.0
+2011,iran,27759.0
+2011,nepal,3645.0
+2011,iraq,10927.0
+2011,israel/palestine,3759.0
+2011,jordan,1476.0
+2011,kuwait,520.0
+2011,lebanon,2119.0
+2011,saudi arabia,3151.0
+2011,syria,1111.0
+2011,turkey,2101.0
+2011,yemen arab republic (north),1380.0
+2011,"asia, nec/ns",3262.0
+2011,algeria,2259.0
+2011,egypt/united arab rep,3713.0
+2011,morocco,1208.0
+2011,sudan,393.0
+2011,ghana,608.0
+2011,nigeria,2777.0
+2011,senegal,362.0
+2011,sierra leone,66.0
+2011,"western africa, ns",147.0
+2011,ethiopia,3894.0
+2011,kenya,1281.0
+2011,somalia,1279.0
+2011,tanzania,63.0
+2011,uganda,432.0
+2011,zimbabwe,41.0
+2011,"eastern africa, nec/ns",718.0
+2011,eritrea,1414.0
+2011,cameroon,360.0
+2011,south africa (union of),1561.0
+2011,"africa, ns/nec",902.0
+2011,australia,3991.0
+2011,new zealand,1364.0
+2011,fiji,4315.0
+2011,tonga,639.0
+2011,other n.e.c,751.0
+2012,"samoa, 1940-1950",495.0
+2012,canada,13367.0
+2012,cape verde,197.0
+2012,mexico,188146.0
+2012,belize/british honduras,758.0
+2012,costa rica,330.0
+2012,el salvador,27811.0
+2012,guatemala,29846.0
+2012,honduras,5642.0
+2012,nicaragua,2160.0
+2012,panama,95.0
+2012,cuba,796.0
+2012,dominican republic,362.0
+2012,haiti,504.0
+2012,jamaica,595.0
+2012,bahamas,57.0
+2012,st. lucia,140.0
+2012,trinidad and tobago,647.0
+2012,"caribbean, ns",325.0
+2012,"americas, ns",392.0
+2012,argentina,1720.0
+2012,bolivia,307.0
+2012,brazil,5881.0
+2012,chile,504.0
+2012,colombia,3624.0
+2012,ecuador,1138.0
+2012,guyana/british guiana,459.0
+2012,peru,3404.0
+2012,uruguay,59.0
+2012,venezuela,406.0
+2012,denmark,836.0
+2012,finland,718.0
+2012,iceland,115.0
+2012,norway,2461.0
+2012,sweden,1976.0
+2012,england,5135.0
+2012,scotland,222.0
+2012,"united kingdom, ns",5255.0
+2012,ireland,1219.0
+2012,belgium,572.0
+2012,france,4991.0
+2012,netherlands,816.0
+2012,switzerland,756.0
+2012,albania,80.0
+2012,greece,1185.0
+2012,macedonia,771.0
+2012,italy,2940.0
+2012,portugal,350.0
+2012,spain,3102.0
+2012,austria,807.0
+2012,bulgaria,648.0
+2012,slovakia,318.0
+2012,czech republic,441.0
+2012,germany,8275.0
+2012,hungary,1028.0
+2012,poland,967.0
+2012,romania,2037.0
+2012,croatia,321.0
+2012,montenegro,108.0
+2012,serbia,532.0
+2012,bosnia,151.0
+2012,latvia,510.0
+2012,other ussr/russia,7315.0
+2012,byelorussia,740.0
+2012,moldavia,1792.0
+2012,ukraine,3229.0
+2012,armenia,6221.0
+2012,azerbaijan,263.0
+2012,republic of georgia,220.0
+2012,kazakhstan,383.0
+2012,uzbekistan,3057.0
+2012,"ussr, ns",234.0
+2012,"europe, ns",405.0
+2012,china,77175.0
+2012,hong kong,5420.0
+2012,taiwan,12366.0
+2012,japan,14798.0
+2012,korea,38401.0
+2012,cambodia (kampuchea),3176.0
+2012,indonesia,3891.0
+2012,laos,1585.0
+2012,malaysia,1000.0
+2012,philippines,77430.0
+2012,singapore,462.0
+2012,thailand,9736.0
+2012,vietnam,37202.0
+2012,afghanistan,1437.0
+2012,india,81543.0
+2012,bangladesh,3424.0
+2012,bhutan,298.0
+2012,burma (myanmar),3163.0
+2012,pakistan,6928.0
+2012,sri lanka (ceylon),1212.0
+2012,iran,18916.0
+2012,nepal,2509.0
+2012,cyprus,164.0
+2012,iraq,10170.0
+2012,israel/palestine,3571.0
+2012,jordan,1647.0
+2012,kuwait,3168.0
+2012,lebanon,1432.0
+2012,saudi arabia,4801.0
+2012,syria,1829.0
+2012,turkey,2344.0
+2012,united arab emirates,848.0
+2012,yemen arab republic (north),601.0
+2012,"asia, nec/ns",3214.0
+2012,algeria,489.0
+2012,egypt/united arab rep,4570.0
+2012,libya,236.0
+2012,morocco,810.0
+2012,sudan,104.0
+2012,"north africa, ns",375.0
+2012,ghana,905.0
+2012,guinea,245.0
+2012,nigeria,3319.0
+2012,sierra leone,235.0
+2012,"western africa, ns",718.0
+2012,ethiopia,5270.0
+2012,kenya,2484.0
+2012,somalia,182.0
+2012,tanzania,120.0
+2012,uganda,1258.0
+2012,zambia,206.0
+2012,"eastern africa, nec/ns",194.0
+2012,eritrea,654.0
+2012,cameroon,1196.0
+2012,congo,553.0
+2012,zaire,343.0
+2012,south africa (union of),1310.0
+2012,"africa, ns/nec",451.0
+2012,australia,4235.0
+2012,new zealand,1146.0
+2012,fiji,2549.0
+2012,tonga,249.0
+2012,marshall islands,86.0
+2012,other n.e.c,265.0
+2013,"samoa, 1940-1950",463.0
+2013,canada,12434.0
+2013,mexico,166590.0
+2013,belize/british honduras,177.0
+2013,costa rica,353.0
+2013,el salvador,24699.0
+2013,guatemala,18890.0
+2013,honduras,5020.0
+2013,nicaragua,2466.0
+2013,panama,715.0
+2013,cuba,1226.0
+2013,dominican republic,1231.0
+2013,haiti,590.0
+2013,jamaica,1257.0
+2013,bahamas,103.0
+2013,grenada,51.0
+2013,st. lucia,33.0
+2013,st. vincent,118.0
+2013,trinidad and tobago,684.0
+2013,argentina,1393.0
+2013,bolivia,544.0
+2013,brazil,8411.0
+2013,chile,2349.0
+2013,colombia,3384.0
+2013,ecuador,1240.0
+2013,paraguay,110.0
+2013,peru,5125.0
+2013,uruguay,82.0
+2013,venezuela,821.0
+2013,"south america, ns",319.0
+2013,denmark,584.0
+2013,finland,1095.0
+2013,norway,1370.0
+2013,sweden,1779.0
+2013,england,4557.0
+2013,scotland,304.0
+2013,"united kingdom, ns",5471.0
+2013,ireland,947.0
+2013,belgium,239.0
+2013,france,5664.0
+2013,netherlands,1846.0
+2013,switzerland,2381.0
+2013,albania,288.0
+2013,greece,494.0
+2013,macedonia,166.0
+2013,italy,2679.0
+2013,portugal,663.0
+2013,spain,2580.0
+2013,austria,524.0
+2013,bulgaria,1616.0
+2013,slovakia,165.0
+2013,czech republic,489.0
+2013,germany,9208.0
+2013,hungary,456.0
+2013,poland,881.0
+2013,romania,1491.0
+2013,croatia,195.0
+2013,serbia,687.0
+2013,bosnia,195.0
+2013,latvia,229.0
+2013,lithuania,153.0
+2013,other ussr/russia,7161.0
+2013,byelorussia,1224.0
+2013,moldavia,721.0
+2013,ukraine,4631.0
+2013,armenia,5667.0
+2013,azerbaijan,1082.0
+2013,republic of georgia,220.0
+2013,kazakhstan,678.0
+2013,uzbekistan,418.0
+2013,"ussr, ns",576.0
+2013,"europe, ns",684.0
+2013,china,94644.0
+2013,hong kong,5134.0
+2013,taiwan,12786.0
+2013,japan,16120.0
+2013,korea,27863.0
+2013,cambodia (kampuchea),2466.0
+2013,indonesia,3110.0
+2013,laos,1210.0
+2013,malaysia,1866.0
+2013,philippines,67517.0
+2013,singapore,1688.0
+2013,thailand,5418.0
+2013,vietnam,34140.0
+2013,afghanistan,2837.0
+2013,india,78896.0
+2013,bangladesh,3690.0
+2013,bhutan,121.0
+2013,burma (myanmar),2820.0
+2013,pakistan,4947.0
+2013,sri lanka (ceylon),1088.0
+2013,iran,23733.0
+2013,nepal,3405.0
+2013,cyprus,14.0
+2013,iraq,13372.0
+2013,israel/palestine,3202.0
+2013,jordan,650.0
+2013,kuwait,752.0
+2013,lebanon,2554.0
+2013,saudi arabia,7691.0
+2013,syria,2933.0
+2013,turkey,3804.0
+2013,united arab emirates,2759.0
+2013,yemen arab republic (north),1772.0
+2013,"asia, nec/ns",1642.0
+2013,algeria,958.0
+2013,egypt/united arab rep,5721.0
+2013,libya,506.0
+2013,morocco,438.0
+2013,sudan,225.0
+2013,"north africa, ns",74.0
+2013,ghana,729.0
+2013,liberia,138.0
+2013,nigeria,3169.0
+2013,senegal,171.0
+2013,"western africa, ns",841.0
+2013,ethiopia,3698.0
+2013,kenya,2244.0
+2013,somalia,297.0
+2013,tanzania,53.0
+2013,uganda,198.0
+2013,zimbabwe,224.0
+2013,"eastern africa, nec/ns",563.0
+2013,eritrea,800.0
+2013,cameroon,75.0
+2013,congo,222.0
+2013,zaire,68.0
+2013,south africa (union of),1842.0
+2013,"africa, ns/nec",1206.0
+2013,australia,3905.0
+2013,new zealand,1071.0
+2013,fiji,3054.0
+2013,tonga,1061.0
+2013,micronesia,114.0
+2013,other n.e.c,548.0
+2014,canada,14998.0
+2014,mexico,140618.0
+2014,belize/british honduras,924.0
+2014,costa rica,456.0
+2014,el salvador,22226.0
+2014,guatemala,18130.0
+2014,honduras,6616.0
+2014,nicaragua,1978.0
+2014,panama,36.0
+2014,cuba,847.0
+2014,dominican republic,232.0
+2014,haiti,831.0
+2014,jamaica,881.0
+2014,st. vincent,61.0
+2014,argentina,1981.0
+2014,bolivia,130.0
+2014,brazil,6465.0
+2014,chile,421.0
+2014,colombia,3695.0
+2014,ecuador,1229.0
+2014,guyana/british guiana,501.0
+2014,peru,5371.0
+2014,uruguay,1008.0
+2014,venezuela,288.0
+2014,denmark,1310.0
+2014,finland,614.0
+2014,iceland,102.0
+2014,norway,1716.0
+2014,sweden,4046.0
+2014,england,4476.0
+2014,scotland,669.0
+2014,"united kingdom, ns",7933.0
+2014,ireland,1983.0
+2014,belgium,935.0
+2014,france,6314.0
+2014,netherlands,934.0
+2014,switzerland,1350.0
+2014,greece,1448.0
+2014,italy,3509.0
+2014,portugal,172.0
+2014,spain,1977.0
+2014,austria,820.0
+2014,bulgaria,705.0
+2014,czechoslovakia,93.0
+2014,slovakia,441.0
+2014,czech republic,637.0
+2014,germany,8124.0
+2014,hungary,730.0
+2014,poland,1952.0
+2014,romania,2377.0
+2014,yugoslavia,87.0
+2014,croatia,191.0
+2014,serbia,570.0
+2014,bosnia,99.0
+2014,lithuania,330.0
+2014,other ussr/russia,8060.0
+2014,byelorussia,601.0
+2014,moldavia,1054.0
+2014,ukraine,3992.0
+2014,armenia,5887.0
+2014,azerbaijan,620.0
+2014,republic of georgia,80.0
+2014,kazakhstan,1204.0
+2014,uzbekistan,923.0
+2014,"ussr, ns",281.0
+2014,"europe, ns",761.0
+2014,china,108063.0
+2014,hong kong,4962.0
+2014,taiwan,13220.0
+2014,japan,18062.0
+2014,korea,23628.0
+2014,cambodia (kampuchea),3234.0
+2014,indonesia,2881.0
+2014,laos,881.0
+2014,malaysia,2533.0
+2014,philippines,66745.0
+2014,singapore,1729.0
+2014,thailand,8457.0
+2014,vietnam,35491.0
+2014,afghanistan,1738.0
+2014,india,95588.0
+2014,bangladesh,2965.0
+2014,bhutan,295.0
+2014,burma (myanmar),2304.0
+2014,pakistan,5738.0
+2014,sri lanka (ceylon),643.0
+2014,iran,23376.0
+2014,nepal,2164.0
+2014,cyprus,90.0
+2014,iraq,16433.0
+2014,israel/palestine,3491.0
+2014,jordan,295.0
+2014,kuwait,527.0
+2014,lebanon,980.0
+2014,saudi arabia,5525.0
+2014,syria,5897.0
+2014,turkey,3934.0
+2014,united arab emirates,1149.0
+2014,yemen arab republic (north),1577.0
+2014,"asia, nec/ns",3036.0
+2014,algeria,599.0
+2014,egypt/united arab rep,6529.0
+2014,libya,179.0
+2014,morocco,986.0
+2014,sudan,220.0
+2014,"north africa, ns",318.0
+2014,ghana,401.0
+2014,liberia,173.0
+2014,nigeria,2154.0
+2014,sierra leone,113.0
+2014,"western africa, ns",477.0
+2014,ethiopia,3328.0
+2014,kenya,682.0
+2014,somalia,398.0
+2014,uganda,251.0
+2014,zambia,83.0
+2014,zimbabwe,528.0
+2014,"eastern africa, nec/ns",147.0
+2014,eritrea,1657.0
+2014,cameroon,279.0
+2014,zaire,291.0
+2014,south africa (union of),2176.0
+2014,"africa, ns/nec",549.0
+2014,australia,4848.0
+2014,new zealand,1426.0
+2014,fiji,1920.0
+2014,tonga,311.0
+2014,marshall islands,82.0
+2014,micronesia,345.0
+2014,other n.e.c,102.0
+2015,"samoa, 1940-1950",82.0
+2015,canada,18239.0
+2015,bermuda,132.0
+2015,mexico,144307.0
+2015,belize/british honduras,608.0
+2015,costa rica,832.0
+2015,el salvador,25742.0
+2015,guatemala,19162.0
+2015,honduras,4533.0
+2015,nicaragua,2083.0
+2015,panama,108.0
+2015,cuba,2226.0
+2015,dominican republic,409.0
+2015,haiti,289.0
+2015,jamaica,1066.0
+2015,antigua-barbuda,84.0
+2015,bahamas,72.0
+2015,grenada,73.0
+2015,st. lucia,108.0
+2015,trinidad and tobago,285.0
+2015,"caribbean, ns",300.0
+2015,"west indies, ns",31.0
+2015,"americas, ns",216.0
+2015,argentina,2523.0
+2015,bolivia,90.0
+2015,brazil,9278.0
+2015,chile,1162.0
+2015,colombia,3748.0
+2015,ecuador,594.0
+2015,guyana/british guiana,318.0
+2015,paraguay,77.0
+2015,peru,6315.0
+2015,venezuela,969.0
+2015,"south america, ns",99.0
+2015,denmark,1260.0
+2015,finland,2157.0
+2015,iceland,55.0
+2015,norway,683.0
+2015,sweden,3354.0
+2015,england,5954.0
+2015,scotland,652.0
+2015,"united kingdom, ns",7795.0
+2015,ireland,4196.0
+2015,belgium,813.0
+2015,france,11239.0
+2015,netherlands,1825.0
+2015,switzerland,1306.0
+2015,albania,447.0
+2015,greece,1103.0
+2015,macedonia,70.0
+2015,italy,4326.0
+2015,portugal,701.0
+2015,spain,3962.0
+2015,austria,1044.0
+2015,bulgaria,462.0
+2015,czechoslovakia,70.0
+2015,slovakia,252.0
+2015,czech republic,319.0
+2015,germany,8863.0
+2015,hungary,1202.0
+2015,poland,1684.0
+2015,romania,2707.0
+2015,croatia,674.0
+2015,serbia,216.0
+2015,bosnia,72.0
+2015,latvia,678.0
+2015,lithuania,120.0
+2015,other ussr/russia,11932.0
+2015,byelorussia,1122.0
+2015,moldavia,674.0
+2015,ukraine,5719.0
+2015,armenia,7094.0
+2015,azerbaijan,320.0
+2015,republic of georgia,947.0
+2015,kazakhstan,1095.0
+2015,uzbekistan,951.0
+2015,"ussr, ns",653.0
+2015,"europe, ns",460.0
+2015,china,124997.0
+2015,hong kong,5710.0
+2015,taiwan,15455.0
+2015,japan,18309.0
+2015,korea,28769.0
+2015,cambodia (kampuchea),2831.0
+2015,indonesia,5672.0
+2015,laos,1842.0
+2015,malaysia,2507.0
+2015,philippines,69873.0
+2015,singapore,2274.0
+2015,thailand,8768.0
+2015,vietnam,36047.0
+2015,afghanistan,4456.0
+2015,india,114163.0
+2015,bangladesh,1882.0
+2015,bhutan,180.0
+2015,burma (myanmar),2624.0
+2015,pakistan,4996.0
+2015,sri lanka (ceylon),1350.0
+2015,iran,22759.0
+2015,nepal,4638.0
+2015,cyprus,106.0
+2015,iraq,11547.0
+2015,israel/palestine,2854.0
+2015,jordan,2692.0
+2015,kuwait,977.0
+2015,lebanon,3464.0
+2015,saudi arabia,9426.0
+2015,syria,3894.0
+2015,turkey,5176.0
+2015,united arab emirates,403.0
+2015,yemen arab republic (north),1182.0
+2015,"asia, nec/ns",2833.0
+2015,algeria,1045.0
+2015,egypt/united arab rep,6890.0
+2015,libya,749.0
+2015,morocco,1124.0
+2015,sudan,303.0
+2015,"north africa, ns",453.0
+2015,gambia,331.0
+2015,ghana,1251.0
+2015,nigeria,2712.0
+2015,sierra leone,1014.0
+2015,"western africa, ns",275.0
+2015,ethiopia,3515.0
+2015,kenya,2015.0
+2015,somalia,728.0
+2015,tanzania,146.0
+2015,uganda,215.0
+2015,zambia,176.0
+2015,zimbabwe,502.0
+2015,"eastern africa, nec/ns",1490.0
+2015,eritrea,1638.0
+2015,cameroon,560.0
+2015,zaire,114.0
+2015,south africa (union of),1722.0
+2015,"africa, ns/nec",365.0
+2015,australia,5718.0
+2015,new zealand,851.0
+2015,fiji,2557.0
+2015,tonga,104.0
+2015,marshall islands,120.0
+2015,micronesia,289.0
+2016,"samoa, 1940-1950",200.0
+2016,canada,16880.0
+2016,bermuda,234.0
+2016,mexico,145667.0
+2016,belize/british honduras,298.0
+2016,costa rica,403.0
+2016,el salvador,33049.0
+2016,guatemala,18431.0
+2016,honduras,3937.0
+2016,nicaragua,1858.0
+2016,panama,221.0
+2016,cuba,1267.0
+2016,dominican republic,319.0
+2016,haiti,274.0
+2016,jamaica,1160.0
+2016,antigua-barbuda,175.0
+2016,bahamas,47.0
+2016,trinidad and tobago,710.0
+2016,"caribbean, ns",243.0
+2016,argentina,3550.0
+2016,bolivia,451.0
+2016,brazil,13064.0
+2016,chile,2437.0
+2016,colombia,5889.0
+2016,ecuador,1856.0
+2016,guyana/british guiana,484.0
+2016,paraguay,238.0
+2016,peru,3601.0
+2016,uruguay,148.0
+2016,venezuela,2519.0
+2016,denmark,658.0
+2016,finland,446.0
+2016,iceland,67.0
+2016,norway,924.0
+2016,sweden,3695.0
+2016,england,3265.0
+2016,scotland,646.0
+2016,"united kingdom, ns",8991.0
+2016,ireland,2700.0
+2016,belgium,981.0
+2016,france,6539.0
+2016,netherlands,1441.0
+2016,switzerland,1858.0
+2016,albania,95.0
+2016,greece,1069.0
+2016,macedonia,138.0
+2016,italy,4093.0
+2016,portugal,746.0
+2016,spain,2798.0
+2016,austria,510.0
+2016,bulgaria,1413.0
+2016,slovakia,1163.0
+2016,czech republic,685.0
+2016,germany,8125.0
+2016,hungary,299.0
+2016,poland,2167.0
+2016,romania,1862.0
+2016,yugoslavia,284.0
+2016,croatia,232.0
+2016,serbia,349.0
+2016,bosnia,345.0
+2016,latvia,606.0
+2016,lithuania,884.0
+2016,other ussr/russia,8376.0
+2016,byelorussia,1523.0
+2016,moldavia,1133.0
+2016,ukraine,7460.0
+2016,armenia,8212.0
+2016,azerbaijan,772.0
+2016,republic of georgia,391.0
+2016,kazakhstan,1070.0
+2016,uzbekistan,58.0
+2016,"ussr, ns",513.0
+2016,"europe, ns",1091.0
+2016,china,146135.0
+2016,hong kong,6492.0
+2016,taiwan,13449.0
+2016,japan,17247.0
+2016,korea,24582.0
+2016,cambodia (kampuchea),3320.0
+2016,indonesia,2928.0
+2016,laos,1795.0
+2016,malaysia,1904.0
+2016,philippines,60819.0
+2016,singapore,1485.0
+2016,thailand,6051.0
+2016,vietnam,41446.0
+2016,afghanistan,8125.0
+2016,india,117132.0
+2016,bangladesh,2986.0
+2016,burma (myanmar),2008.0
+2016,pakistan,10678.0
+2016,sri lanka (ceylon),889.0
+2016,iran,27753.0
+2016,nepal,3295.0
+2016,cyprus,225.0
+2016,iraq,10657.0
+2016,israel/palestine,3295.0
+2016,jordan,1364.0
+2016,kuwait,2066.0
+2016,lebanon,2741.0
+2016,saudi arabia,6767.0
+2016,syria,4260.0
+2016,turkey,3451.0
+2016,united arab emirates,830.0
+2016,yemen arab republic (north),2247.0
+2016,"asia, nec/ns",2829.0
+2016,algeria,1532.0
+2016,egypt/united arab rep,5663.0
+2016,libya,780.0
+2016,morocco,547.0
+2016,sudan,614.0
+2016,"north africa, ns",220.0
+2016,ghana,2016.0
+2016,liberia,108.0
+2016,nigeria,5133.0
+2016,senegal,69.0
+2016,sierra leone,138.0
+2016,ethiopia,3320.0
+2016,kenya,1210.0
+2016,tanzania,73.0
+2016,uganda,830.0
+2016,zambia,117.0
+2016,"eastern africa, nec/ns",464.0
+2016,eritrea,2390.0
+2016,cameroon,754.0
+2016,congo,895.0
+2016,zaire,401.0
+2016,south africa (union of),1621.0
+2016,"africa, ns/nec",1577.0
+2016,australia,5572.0
+2016,new zealand,1102.0
+2016,fiji,1826.0
+2016,tonga,116.0
+2016,micronesia,87.0
